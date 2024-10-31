@@ -1,0 +1,14 @@
+body{
+    background-color: #b8b8fa;
+}
+.tamano{
+    width: 700px;
+    margin:10px auto;
+    border: 3px black solid;
+}
+.logo{
+    width: 60px;
+}
+.color{
+    background-color: #d9ff00;
+}
